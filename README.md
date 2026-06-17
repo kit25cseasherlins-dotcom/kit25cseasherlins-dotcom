@@ -3,7 +3,14 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student;Full+Stack+Developer;AI+Enthusiast;Java+Programmer;Future+Software+Engineer" />
 </p>
-# 👋 Hi, I'm Sherlin
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kit25cseasherlins-dotcom&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/kit25cseasherlins-dotcom?label=FOLLOWERS&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/kit25cseasherlins-dotcom?affiliations=OWNER&label=STARS&style=for-the-badge" />
+</p>
+#  I'm Sherlin
 
 ### Full Stack Developer | AI Enthusiast | CSE Student
 
