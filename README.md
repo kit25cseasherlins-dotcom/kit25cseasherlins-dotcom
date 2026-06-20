@@ -32,10 +32,11 @@ const sherlin = {
 
 ## 🛠 Tech Stack
 
-Java • Python • HTML • CSS • JavaScript
+Java • Python • HTML • CSS • JavaScript •C 
 
 ## 🚀 Projects
-
+- Personal diary
+- Expression checker in java 
 - Python Timer Quiz
 - Portfolio Website
-- Student Management System
+  
