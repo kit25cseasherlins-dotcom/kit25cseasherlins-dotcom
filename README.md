@@ -20,15 +20,7 @@
 ### Full Stack Developer | AI Enthusiast | CSE Student
 
 ## About Me
-
-```javascript
-const sherlin = {
-  pronouns: "She/Her",
-  code: ["Java", "Python", "HTML", "CSS", "JavaScript"],
-  currentFocus: "Full Stack Development",
-  motto: "Code with purpose 🚀"
-};
-```
+👋 Hi, I'm Sherlin, a CSE student and aspiring Full Stack Developer. I love turning ideas into functional web applications using Java, Python, JavaScript, and modern development tools. My goal is to build technology that solves real-world problems and makes a positive impact. 🚀
 
 ## 🛠 Tech Stack
 
