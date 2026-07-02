@@ -24,11 +24,19 @@
 
 ## 🛠 Tech Stack
 
-Java • Python • HTML • CSS • JavaScript •C 
+Java • Python • HTML • CSS • JavaScript •C Node.js
+Backend: Node.js • Express.js • JavaScript (ES6+)
+
+Database: MongoDB Atlas • Mongoose
+
+API & Testing: REST API • Postman
+
+Tools & Deployment: Git • GitHub • Render • Dotenv • CORS
 
 ## 🚀 Projects
 - Personal diary
 - Expression checker in java 
 - Python Timer Quiz
 - Portfolio Website
+- Database Integration(backend)
   
