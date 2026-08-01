@@ -35,6 +35,7 @@ Tools & Deployment: Git • GitHub • Render • Dotenv • CORS
 
 ## 🚀 Projects
 - Personal diary
+- HostelSOS-Android App
 - Expression checker in java 
 - Python Timer Quiz
 - Portfolio Website
